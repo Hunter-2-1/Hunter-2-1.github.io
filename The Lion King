@@ -2,11 +2,11 @@
 <head>
 <title>Move</title>
 </head>
-<body background="Image\afisha.jpg">
+<body background="afisha.jpg">
 
 <h1>The Lion King</h1>
 
-<p style="text-align:center"><a href="http://www.imdb.com/title/tt0110357/"><img src="Image\The Lion King.jpg"></a></p>
+<p style="text-align:center"><a href="http://www.imdb.com/title/tt0110357/"><img src="The Lion King.jpg"></a></p>
 <p>Director:Roger Allers, Rob Minkoff </p>
 <p>Writers: Irene Mecchi, Jonathan Roberts </p>
 <p>Stars:  Matthew Broderick, Jeremy Irons, James Earl Jones</p>

@@ -2,11 +2,11 @@
 <head>
 <title>Move</title>
 </head>
-<body background="Image\afisha.jpg">
+<body background="afisha.jpg">
 
 <h1>Rampage</h1>
 
-<p style="text-align:center"><a href="http://www.imdb.com/title/tt2231461/"><img src="Image\rampage.jpg"></a></p>
+<p style="text-align:center"><a href="http://www.imdb.com/title/tt2231461/"><img src="rampage.jpg"></a></p>
 <p>Director:Brad Peyton </p>
 <p>Writers: Ryan Engle, Carlton Cuse </p>
 <p>Stars: Jeffrey Dean Morgan, Dwayne Johnson, Malin Akerman</p>

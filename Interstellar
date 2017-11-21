@@ -2,11 +2,11 @@
 <head>
 <title>Move</title>
 </head>
-<body background="Image\afisha.jpg">
+<body background="afisha.jpg">
 
 <h1>Interstellar </h1>
 
-<p style="text-align:center"><a href="http://www.imdb.com/title/tt0816692/"><img src="Image\Interstellar.jpg"></a></p>
+<p style="text-align:center"><a href="http://www.imdb.com/title/tt0816692/"><img src="Interstellar.jpg"></a></p>
 <p>Director: Christopher Nolan </p
 <p>Writers: Jonathan Nolan, Christopher Nolan </p>
 <p>Stars:  Matthew McConaughey, Anne Hathaway, Jessica Chastain</p>
