@@ -11,7 +11,7 @@ br1{font-size: 20px; color:red}
 </style>
 
 </head>
-<body background="Image\1365572975_oboi-priroda-5.jpg">
+<body background="1365572975_oboi-priroda-5.jpg">
  
 <h1>Li Valeriy</h1>
 
@@ -25,7 +25,7 @@ br1{font-size: 20px; color:red}
 
 
 <center><br1> My Avatar
-<br><img src="Image\Avatar.jpg" alt="avatar" width="256" height="256">
+<br><img src="Avatar.jpg" alt="avatar" width="256" height="256">
 </center>
 <font color="white">
 <br>My hobbies or interests
@@ -38,7 +38,7 @@ br1{font-size: 20px; color:red}
 </font>
 
 <br> If you want you can take a look here
-<a href="Libs\Cinema">Cinema</a>
+<a href="Cinema">Cinema</a>
 
 </body>
 </html>
