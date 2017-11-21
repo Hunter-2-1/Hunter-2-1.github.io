@@ -2,13 +2,7 @@
 <html>
 <head>
 <title>Page about me</title>
-<style type="text/css">
-
-h1 {color: purple; text-align: center}
-
-p {color:brown; font-size:14px}
-br1{font-size: 20px; color:red}
-</style>
+ <link rel="stylesheet" href="css">
 
 </head>
 <body background="1365572975_oboi-priroda-5.jpg">
